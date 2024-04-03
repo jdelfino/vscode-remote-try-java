@@ -16,7 +16,7 @@ public class AppTest {
 
     /**
      * This is a test of auto commit / push
-     * Go. Go. Go.
+     * Go. Go. Go. Stop.
      */
     @Test
     public void testMore() {
