@@ -14,6 +14,10 @@ public class AppTest {
         assertTrue(true);
     }
 
+    /**
+     * This is a test of auto commit / push
+     * Go
+     */
     @Test
     public void testMore() {
         assertTrue(false);
