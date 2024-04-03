@@ -1,8 +1,11 @@
 {
-    "gitdoc.enabled": true,
     "github.codespaces.defaultExtensions": [
         "vsls-contrib.gitdoc"
     ],
+    "gitdoc.enabled": true,
     "gitdoc.autoCommitDelay": 10000,
-    "gitdoc.autoPush": "afterDelay"
+    "gitdoc.autoPush": "afterDelay",
+    "gitdoc.commitValidationLevel": "none",
+    "gitdoc.filePattern": "**/*",
+    "gitdoc.autoPushDelay": 30000
 }
