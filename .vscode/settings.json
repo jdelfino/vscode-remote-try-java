@@ -1,4 +1,4 @@
 {
     "gitdoc.enabled": true,
-    "github.codespaces.defaultExtensions": [ "gitdoc" ]
+    "github.codespaces.defaultExtensions": [ "vsls-contrib.gitdoc" ]
 }
